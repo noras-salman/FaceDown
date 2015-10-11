@@ -1,0 +1,21 @@
+
+clear
+echo " "
+echo " "
+echo -e "      \e[34m███████▄▄███████████▄\e[0m"
+echo -e "      \e[34m▓▓▓▓▓▓█\e[37m██████████████\e[34m█\e[0m"
+echo -e "      \e[34m▓▓▓▓▓▓█\e[37m██████████████\e[34m█\e[0m"
+echo -e "      \e[34m▓▓▓▓▓▓█\e[37m██████████████\e[34m█\e[0m"
+echo -e "      \e[34m▓▓▓▓▓▓█\e[37m██████████████\e[34m█\e[0m		   \e[1;31mF\e[1;33mA\e[1;31mC\e[1;33mE\e[1;31mD\e[1;33m0\e[1;31mW\e[1;33mN\e[0m"
+echo -e "      \e[34m▓▓▓▓▓▓█\e[37m██████████████\e[34m█\e[0m	  	  \e[1;36mVersion1.0 \e[0m"
+echo -e "      \e[34m▓▓▓▓▓▓█\e[37m██████████████\e[34m█\e[0m	   \e[1;36mRelease Date: \e[1;35m23/12/2012\e[0m"
+echo -e "      \e[34m███████▀\e[37m█████████\e[34m████▀\e[0m		\e[1;36mBy: \e[1;32mNoras Salman\e[0m"
+echo -e "              \e[34m█\e[37m██████\e[34m█\e[m			      \e[1;36m&\e[0m   \e[1;32mAli Shatrieh\e[0m"
+echo -e "                \e[34m█\e[37m████\e[34m█\e[0m"
+echo -e "                 \e[34m█\e[37m██\e[34m█\e[1;37m    "
+echo -e "                 \e[34m█\e[37m██\e[34m█\e[1m     "		
+echo -e "                  \e[34m▀▀\e[0m"
+
+
+
+

