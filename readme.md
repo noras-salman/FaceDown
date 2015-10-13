@@ -24,5 +24,3 @@ This tool/script is meant only for educational purposes on user's own computer/n
 
 [tweet]:<https://twitter.com/thehackersnews/status/285436606113017856>
 [The Hacker News]:<https://thehackernews.com/>
-
-
