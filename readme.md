@@ -3,6 +3,8 @@
 Face Down | is a Facebook Cookie / Session Hijack Bash (sh) script that depends on two well know sniffers (Ettercap) and (TShark) "the Terminal based version of (Wireshark)" ,the basic job that it does is that it sniff the cookies all over the (HTTP) protocol all over the network.
 This script was made as a POF (proof of concept) script for school project.
 
+This script worked when a facebook user wasn't loged in over HTTPS (Yes, a user choose to do that).
+
 ### Popularity and History:
 I released this script on 23/12/2012 on http://sourceforge.net/projects/facedown/ , I'll keep the original copy there. Howerver, I don't incorage any one to download it from there beacuse SourceForge is adding some extra "Alien" files..If you know what I mean ;) . Up till now (13/10/2015) it has reached 1k + downloads.
 
@@ -26,6 +28,7 @@ This tool/script is meant only for educational purposes on user's own computer/n
 [The Hacker News]:<https://thehackernews.com/>
 
 ### Usage:
+- First Step:
 Just change the directory to get inside the FaceDown folder:
 ```
     $ cd FaceDown
@@ -43,3 +46,5 @@ or
     $ chmod 777 FaceDown.sh
 ```
 
+- Second Step:
+A webpage will open ,if a session coud be captured.And everything will be easy from that point.
