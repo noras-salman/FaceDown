@@ -7,7 +7,7 @@ tsharkVer=$(tshark -v | grep "TShark" | cut -d " " -f 2)
 tsharkIsInstalled=$(expr length $ettercapVer)
 ettercapIsInstalled=$(expr length $tsharkVer)
 refreshRate=10
-./Agreement
+./Agreement.sh
 echo ""
 #############################
 if [ $ettercapIsInstalled -eq 0 ] ;then
@@ -75,7 +75,7 @@ done
 kill $tsharkProcessId
 kill $tsharkProcessIdd
 #############################if cookie is there view the HTML/page else remove the round file 
-./../../../CookieDigging temp$round.txt
+./../../../CookieDigging.sh temp$round.txt
 
 ############################# 
 done
