@@ -24,3 +24,22 @@ This tool/script is meant only for educational purposes on user's own computer/n
 
 [tweet]:<https://twitter.com/thehackersnews/status/285436606113017856>
 [The Hacker News]:<https://thehackernews.com/>
+
+### Usage:
+Just change the directory to get inside the FaceDown folder:
+```
+    $ cd FaceDown
+```
+And run the script:
+```
+    $ sh FaceDown.sh
+```
+In case it's not runing, make sure to chmod:
+```
+    $ chmod +x FaceDown.sh
+```
+or
+```
+    $ chmod 777 FaceDown.sh
+```
+
